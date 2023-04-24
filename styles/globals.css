@@ -24,3 +24,39 @@ a {
     background: black;
   }
 }
+
+.status-alive {
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: rgb(10, 184, 10);
+  color: white;
+}
+
+.status-dead {
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: red;
+  color: white;
+}
+
+.status-unknown {
+  border-radius: 20px;
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: black;
+    color: white;
+}
+
+/* Path: styles\index.css */
+
